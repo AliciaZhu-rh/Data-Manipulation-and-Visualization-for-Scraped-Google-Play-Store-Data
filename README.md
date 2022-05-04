@@ -5,6 +5,7 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 The data for this project was scraped from the Google Play website. While there are many popular datasets for Apple App Store, there aren't many for Google Play apps, which is partially due to the increased difficulty in scraping the latter as compared to the former. The data files are as follows:
 * apps.csv: contains all the details of the apps on Google Play. These are the features that describe an app.
 * user_reviews.csv: contains 100 reviews for each app, most helpful first. The text in each review has been pre-processed, passed through a sentiment analyzer engine, and tagged with its sentiment score.
+Project source: https://www.datacamp.com/projects/619
 
 Topics
 * Data Manipulation
